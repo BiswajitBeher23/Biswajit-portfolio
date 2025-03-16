@@ -1,0 +1,27 @@
+[
+    {
+        "role":"MCA",
+        "organisation":"BPUT",
+        "startdate":"nov,2022",
+        "endDate":"nov,2024",
+        "experience":["75%"],
+        "imagesrc":"history/bput.png"
+    },
+    {
+        "role":"B.sc",
+        "organisation":"Utka University",
+        "startdate":"2019",
+        "endDate":"2021",
+        "experience":["73%"],
+        "imagesrc":"history/microsoft.png"
+    },
+    {
+        "role":"12th",
+        "organisation":"BPUT",
+        "startdate":"2017",
+        "endDate":"2019",
+        "experience":["47%"],
+        "imagesrc":"history/bput.png"
+    }
+
+]

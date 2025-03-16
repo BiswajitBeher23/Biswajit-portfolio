@@ -1,0 +1,29 @@
+[
+    {
+        "title":"project A",
+        "imageSrc":"projects/project.png",
+        "description":"This is a project of my portfolio",
+        "skills":["html","Css","React"],
+        "demo":"http://www.example.com",
+        "source":"https://github.com/BiswajitBeher23?tab=repositories"
+
+    },
+    {
+        "title":"project B",
+        "imageSrc":"projects/project.png",
+        "description":"This is a project of a brandpage of nike",
+        "skills":["html","Css","React"],
+        "demo":"http://www.example.com",
+        "source":"https://github.com/BiswajitBeher23?tab=repositories"
+
+    },
+    {
+        "title":"project C",
+        "imageSrc":"projects/project.png",
+        "description":"This is a project Automated teller mechine",
+        "skills":["awt","swing","java"],
+        "demo":"http://www.example.com",
+        "source":"https://github.com/BiswajitBeher23?tab=repositories"
+
+    }
+]

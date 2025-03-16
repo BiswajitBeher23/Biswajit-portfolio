@@ -1,0 +1,36 @@
+[
+    {
+        "title":"HTML",
+        "imagesrc":"skills/html.png"
+    },
+    {
+        "title":"css",
+        "imagesrc":"skills/css.png"
+
+    },
+    {
+        "title":"React",
+        "imagesrc":"skills/react.png"
+
+    },
+    {
+        "title":"Node",
+        "imagesrc":"skills/node.png"
+
+    },
+    {
+        "title":"Python",
+        "imagesrc":"skills/graphql.png"
+
+    },
+    {
+        "title":"My Sql",
+        "imagesrc":"skills/mongodb.png"
+
+    },
+    {
+        "title":"Figma",
+        "imagesrc":"skills/figma.png"
+
+    }
+]
