@@ -3,9 +3,9 @@
   publish ="dist"
 
 [[redirects]]
-from = "/*"
-to ="/index.html"
-status = 200
+  from = "/*"
+  to ="/index.html"
+  status = 200
 
 # Environment variables for production (non-sensitive only)
 [context.production.environment]
