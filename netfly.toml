@@ -1,8 +1,12 @@
 [build]
+  command = "npm run build"
   publish ="dist"
-  command = "npm run dev"
 
 [[redirects]]
 from = "/*"
 to ="/index.html"
 status = 200
+
+# Environment variables for production (non-sensitive only)
+[context.production.environment]
+  NODE_ENV = "production"
